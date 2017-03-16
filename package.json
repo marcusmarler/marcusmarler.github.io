@@ -1,0 +1,25 @@
+{
+  "name": "marcusmarler.github.io",
+  "version": "1.0.0",
+  "description": "Personal website",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marcusmarler/marcusmarler.github.io.git"
+  },
+  "author": "Marcus Marler",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marcusmarler/marcusmarler.github.io/issues"
+  },
+  "homepage": "https://github.com/marcusmarler/marcusmarler.github.io#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-sass": "^3.1.0",
+    "gulp-watch": "^4.3.11",
+    "gulp-webserver": "^0.9.1"
+  }
+}
